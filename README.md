@@ -60,6 +60,15 @@ const jhon = {
 </p>
 
 ---
+📫 Conecta conmigo
+<p align="center"> <a href="mailto:TU-CORREO@unsch.edu.pe"> <img src="https://img.shields.io/badge/Correo%20Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Jhoncode987"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhoncode987/Jhoncode987/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhoncode987/Jhoncode987/output/dist/github-contribution-grid-snake.svg">
+  <img alt="Animación de contribuciones Snake" src="https://raw.githubusercontent.com/Jhoncode987/Jhoncode987/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📊 Estadísticas de GitHub
 
